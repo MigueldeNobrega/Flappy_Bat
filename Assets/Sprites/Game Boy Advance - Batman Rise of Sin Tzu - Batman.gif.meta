@@ -1,0 +1,6696 @@
+fileFormatVersion: 2
+guid: 6863e26dc659efa4082bc1ded705a991
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1417
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa67deba4a0c43d4c945ff9ce9ba6cac
+      internalID: 1817452596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1416
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e621422d9aac0418beb50c794e2cab
+      internalID: -1778775417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1418
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b1a4c690538e42a9c021c8f99b1cc
+      internalID: 498007163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85bb4962b6b06d42a88bfe1e7f48c65
+      internalID: -760029286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1418
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b45a611619a42448e0c02f4a1fb08b
+      internalID: -422502805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd66e345b607f478fec5d61dac2534
+      internalID: 1181392287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1418
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f185e6c567684d8136d6465a7953a
+      internalID: -142649052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35facbb4b04825c47a65e88da29d5b1c
+      internalID: -1429736571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1418
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3216c72601e254cbc3bad7162cdfd5
+      internalID: 753560873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1419
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54e9ff1f33855949bddd00bc0f988e1
+      internalID: -392213956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1418
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0969ff3328b14ab658880fb9e5344
+      internalID: -890933768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1419
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44525effde6d8814eabe5cf58e08d08d
+      internalID: -645794169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1418
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdcc8c7791690b46ad0c25ef4067c3f
+      internalID: 2112702751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1418
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e15c0e9ee4e25542912a259858fc714
+      internalID: -122253373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_14
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1419
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfcca4b700fa8c42b58b2ebb4279c4c
+      internalID: 507117684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1420
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdda2ab14831c4384c25eea91cd6e2
+      internalID: -282123206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1359
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3dffb5111966a4aa3451a81fe69d46
+      internalID: -1832814007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1359
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471bcf78f1ffb594f97824de8546e791
+      internalID: 1833066360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1358
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fed126b5c268794f83cf6b3ab6faf80
+      internalID: -2131999268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1358
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65822652de3232b488ad44b62e3cf600
+      internalID: 1494150897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1359
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79bdc98ac2b0649b3bfc06de3f06ec
+      internalID: -739553015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1358
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd6aa7e296ec8e469cc7d000bad7794
+      internalID: 1484828999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1360
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e7eb3dffab7646af24f8ceb4394c0
+      internalID: 180609552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1364
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe400069ca268345aa415f752af1f06
+      internalID: -108395422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1373
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c113cbc279d5834da23b2cea3164fa7
+      internalID: -1898719356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_25
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1378
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5152f53af096ae4f9399af7478a4eff
+      internalID: -485024558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1376
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f8d951a1b31474cb539a716aaccb9f
+      internalID: 1464757682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1304
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53efb64e2f961b346a8b21b1bdc93ccd
+      internalID: 873733782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1303
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ad0744b4c4284793e182e57d37032
+      internalID: -1553180266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1305
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e00e033f3292824a8a7777b4c8369b7
+      internalID: 1715398949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1306
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3477a7b66e7f9f4c8139ba560f79630
+      internalID: -593784385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1307
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eabe8e85b67e9419b5740d36e4b61f
+      internalID: 790585928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1306
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cea0ab90d4aab4ead52cf8a199be4a
+      internalID: -2045568647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1306
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36588f7196c539b48839e647ce1c15a0
+      internalID: -124358422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1305
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6254da6ea7a5c40b1b7da9a8adc95b
+      internalID: 615702207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5733e153801d478146f42e67088c1
+      internalID: 354270065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_36
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1301
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1f072d21f2a848b91a28df48b1acf
+      internalID: -258737249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1345
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a3ed4fe0f047049a47cca78e2631eb
+      internalID: -1688932697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1303
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c37a926e8dab41a2837a3840db5c8
+      internalID: -1163294461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1249
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca1bf2037b8d47418a3c3e4499a8c05
+      internalID: 778044050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1249
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280798564c5364947b08619bf054a7a1
+      internalID: 1300725042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1247
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aef5abb18e82b478694b7b1fd81b8a
+      internalID: 204277304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1247
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172e1042ae8ec7e4aa5e4d6de47728b0
+      internalID: -255039229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1245
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d579eb7df47fd0e43b34c4350ed1f190
+      internalID: -753628791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_44
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1246
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e12cc6eff9b6c48a3efebeb0ee8f66
+      internalID: -228616285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1246
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8758c3a56d402124f870033ab967c1b9
+      internalID: -1882044994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1245
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39654512554ddbb43b03d9c23c62e8b3
+      internalID: -436353354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1245
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a000d430b97ce7d4289c67c3dd406d53
+      internalID: 271240646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1245
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77100eb6302a0648840a3569d36c56e
+      internalID: -1326151071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1191
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3864d5749a51b448d75d07ccb7b9b4
+      internalID: -1529848497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1194
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f47c6bb9e04aa4786dae724f4ce6ef
+      internalID: -1890371517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1194
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f722c47ca399ed478b5f9a7fe56fc7a
+      internalID: -1344344759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1190
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace59e4c366667241b6be1c5a7ad2386
+      internalID: -1170817642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1191
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a27e7af62dcc4395eb0b09e61d622
+      internalID: -433238997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1191
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f9334cd34ed34992cd10e9020e8eb
+      internalID: -307786256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_55
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1190
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca654ef3774ab284aafe474b85451fde
+      internalID: -297593351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1191
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173650cafb103f43bff4346bab79ed4
+      internalID: -1153400734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1188
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6706e98f42ed2d9479d07c6d91833628
+      internalID: -1306861224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1187
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bbf5da9375eee48bc11497091bf3cf
+      internalID: 2096892130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1108
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc498407cd14a242bc9499a1f56bd73
+      internalID: 424271577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1110
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510d6cca05867647a1c3f3f40249f9f
+      internalID: -667468135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1115
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34515c4af0607754c975699a5862a69e
+      internalID: 921825985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1121
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5956ec29f7cd75148aa94e45d3ce7bd8
+      internalID: -1255561189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1121
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153fdd5e63f430439a068fc5ca68b9f
+      internalID: -2042700645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1121
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a082ff0f3bf8a14f8055e4f50f5ff11
+      internalID: -158888475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1122
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0471675bcae920b47b9399ea73ee0b08
+      internalID: 304268920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1120
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5720d00507348f84fb67bc37f488deb4
+      internalID: -1880509243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1112
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16855798874e8a40aa8590651355d35
+      internalID: 832350897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_68
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1114
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530c408ab3c77a34bae8bf7a771767f4
+      internalID: -1164927006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_69
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1115
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a07006d0da58ce4d9b18356e9ad89ee
+      internalID: -513249260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_70
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1115
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f988d2eaee681841911903c7c5145f4
+      internalID: -819821137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_71
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1118
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce336f12e5ee5b4fa95afd0f69d9bb6
+      internalID: 1140163193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1063
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e357c89337dc9b4595de24cc138224a
+      internalID: 1390116156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1062
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f422d0057468cb743b319ac39998d67f
+      internalID: -1170073214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1061
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec015ee03855b41b6f1bb1ac7baf80
+      internalID: 1009310969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1058
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93920bda80677e843ae3c6f69c7ce76b
+      internalID: 498795115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_76
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1060
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448068cdc837014ba044aeff6b3a044
+      internalID: 544048924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_77
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1062
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c5e6974aaf1c46b9f6fb32abf945e
+      internalID: 835640211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_78
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1064
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98562aeaf089214793a74e3e8428d86
+      internalID: 1583111453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1061
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb6d7a11435ee46a6b2d7b57b7df01
+      internalID: 359515764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_80
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1061
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab2068a48fb7064a8f682f4ef669f3d
+      internalID: 570567259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1007
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0c16ad6e48ecd40898e2ddb98a7d19
+      internalID: 917386551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_82
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1006
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764bc4aef452467449223cbf4ca04fd6
+      internalID: 768539892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1005
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f225324efdf73fe43865642b01f3f7b8
+      internalID: -1567272237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1002
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52819a558287fc240b480f55177587d0
+      internalID: -1864753360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 999
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99410f162ad60594eb3f51139c828c28
+      internalID: -2068229240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1002
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaef48b85326ace4b85def6b21d42753
+      internalID: -1389011662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_87
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 997
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efac9d0a8d1138e47a4ff6f10617116f
+      internalID: -186849427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1000
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4ce05198ef3874eb774f4003fe5a86
+      internalID: 1654819615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_89
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 998
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da71d58d6c03743b625b21b74afbd9
+      internalID: -1966905167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 996
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32377d71e003cd542a2c2c5e06e547a3
+      internalID: 1880411211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_91
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 949
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb2082e32a2bc49a2d3ce7ac47d549
+      internalID: -2002994209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_92
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 947
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c8342857b909143aad00453867565d
+      internalID: -1074482580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_93
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 945
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e02373c4bc49541bca59202b6bb633
+      internalID: -1328373684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_94
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 943
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c054973590e81c49a1e877a7facdebf
+      internalID: -145504528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_95
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 941
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29d7f378696732459d01b7084aadca4
+      internalID: -1255056642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 941
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c551884bb0e654fadd9d461ee7fdc1
+      internalID: -1781794462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_97
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 939
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339eb17a1b0ec844b5f9faa027795a3
+      internalID: 464216172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_98
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 938
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab705355f89bef4b82b9f101253555f
+      internalID: 1257383394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_99
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 938
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccec73f9251202749938d84b6837afc5
+      internalID: 1696495717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_100
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 937
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22a8cb18be28bb4b937a3b007d2e2d6
+      internalID: 1303615774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_101
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 938
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e8f813f59b14448848ef20e0af9ef7
+      internalID: -1908758724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_102
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 936
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b01139a41d2c9c4c85834dcaa2c8023
+      internalID: -2076397894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_103
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 893
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435cfeade8552f0488fd0b0f677300fe
+      internalID: 79961812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_104
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 890
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2763b9b57d704ba429f4931813cd688d
+      internalID: -820885538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_105
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 890
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11174d14db3642f42a52d7f6b8941e41
+      internalID: 2042722129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_106
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 889
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaea4b79de358364d9227327f5c01b84
+      internalID: -1924579547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_107
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 887
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68804fdb15c1d64d98ac91843f99139
+      internalID: 960828725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 886
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a9d075d0b180a48925600667b55455
+      internalID: -561743405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_109
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 887
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba8d709d780ee4fb1bc3846ee084e5
+      internalID: 1646320649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_110
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 884
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f196355ccc1284e9d6d6c19794c859
+      internalID: -555234276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_111
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 882
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b97e9ce60d774a46a6195eedd9bee47
+      internalID: -1607271144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_112
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 882
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4ff04bc1f90fa46971d6bc1df39d39
+      internalID: -1627075032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 828
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7313c0808e82334bb67ef19d9707807
+      internalID: -1323422219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_114
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 825
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c971460b18545f4ab35b6d623032297
+      internalID: 633255846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_115
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 824
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0afd11e7638aa841a2624443f7b633d
+      internalID: -213571674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_116
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 827
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5651522aa08476a4a9837d47016ee899
+      internalID: -1237949279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_117
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 874
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663563bd47cdd24dbc8bd820bb76c41
+      internalID: -1861333473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_118
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 871
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d379bf0fe7b1324c988a0b2b347cca5
+      internalID: 1862163756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_119
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 874
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6745b04d7c451194c812db906641650f
+      internalID: 830060595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_120
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 874
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7397ff89ec7739f47bcdda75447566cf
+      internalID: -295044294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_121
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 824
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0dbae58452b614f9d83298d8b322dd
+      internalID: 577702102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 821
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f2c5c7d215cb4aabea12866ade836
+      internalID: -70988123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_123
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552aa949027d06240adb5ee3b2c613b5
+      internalID: 126018258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_124
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 820
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f8270d83abc94882be72964b22677
+      internalID: -383654250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_125
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 817
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14ba95cd97708c45b7032b3f688981d
+      internalID: 1888894289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_126
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 865
+        width: 277
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222bbbd73c2233e48852d1b4b84005da
+      internalID: 1500535618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_127
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea52bc8b606019d40b2794f0dd58f75f
+      internalID: 1116228733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_128
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 815
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e8372eb95d0054c93d5d14daec6954
+      internalID: 1904742677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_129
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 817
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77212eb6120a28479001f2809390a5e
+      internalID: 1719179530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_130
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 818
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfd216b2279aa44d805f2e9d7f3a621
+      internalID: -1398089361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_131
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 812
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b2f2559e80c0d44a2e3bb54f1ac911
+      internalID: -75862713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_132
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 812
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71d72dedd900a419bd7ae3086f7670
+      internalID: 539588430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_133
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 812
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f5e8faf2393d4a8ed256037ef7b6a
+      internalID: 565856186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_134
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 809
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c16f5647343b84bb1d42804fd2a804
+      internalID: 1503602281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_135
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 805
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3d03a7b96f78840a2511a055cdc20c
+      internalID: 1683724488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_136
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 804
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abc606d0a5950a4abbb9e80588c36be
+      internalID: -1608734350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_137
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 761
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f6c3c21752614fa95dbba4974bedd
+      internalID: -1807988454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_138
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 760
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb0dd8df418fae4081782c4a4309281
+      internalID: -1724469852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_139
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 763
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a803acf9881ee7243b2909001f4ea671
+      internalID: -1052762740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_140
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 762
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3a14d9124b5b94f910d597455db6c6
+      internalID: -581924557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_141
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 766
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01064d02cb08f5a4999bea1a9d9bb83a
+      internalID: 285346040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_142
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 763
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b50e10444f568945a8980336d17c78a
+      internalID: -465703278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_143
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 759
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e2f2c628847eb4fa0674e6d0f8c13c
+      internalID: -1731145151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_144
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 763
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d423d7ca59ef3814d8297de5d340300c
+      internalID: -1846388752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 727
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d6c1dcbaf099d42a977e5620a60d55
+      internalID: -1779358560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_146
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 705
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2b5c87462512f4298135af8915e480
+      internalID: -815938940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_147
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 711
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece3532ab2af2c4188e60e373bf9bc6
+      internalID: -2024394685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_148
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 712
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a2c0f9b39e2f14d8fd97f95de18e00
+      internalID: -1520786900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_149
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 710
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad3218eb168e546b38631a947ce251
+      internalID: 1542828082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_150
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 707
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23c53da19d39124ab06b14e33f3d2d2
+      internalID: -1120739197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_151
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 703
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9de8702de1a444f9d1ce05d657975d
+      internalID: -1124236297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_152
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 696
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9ad2ba7dddce48a5c444823d32d1a
+      internalID: 113534888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_153
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 704
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f3042c2be1dfc4fad92ff9c1cd7f56
+      internalID: -1794712708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_154
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 700
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c45b869bc62a4584c3de759b5d88a
+      internalID: 790182273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_155
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 696
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5279b6a2aa8e44592f6f6795267ee9
+      internalID: -1217160703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_156
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 693
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36329e999f32ab4ebc94ef8867a510e
+      internalID: -1302864395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_157
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 692
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e4beea3ccb4842aa4999dc0118017
+      internalID: -1311042059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_158
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 692
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f3eedaeadfe65448d79bca2d9daf89
+      internalID: -1946574363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_159
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 692
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237fabd509d4ae2448a3bdf9a823b68d
+      internalID: -959758252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_160
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 690
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a771f87cb49bc14e92bb7e545d04bb6
+      internalID: 521765753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_161
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 629
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0026cbb0dac9142a6a7bc9179db624
+      internalID: 1892384788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_162
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 626
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1248fd011c4ab40b8c4dfef3173abe
+      internalID: 2064868903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_163
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 626
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8b44257e8b954c93b91af862cfc2b
+      internalID: 602314942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_164
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 625
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f0a70224fd0a4babe6d8c5a3a9056
+      internalID: 374276001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_165
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 624
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3da717eeff9954e91d64d96b53f0b4
+      internalID: -1739268572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_166
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 624
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a574f2bc8a5d9448c5ee114623d11d
+      internalID: -104663657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_167
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 622
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4768a9a2f6a22a943a9d3d87c478700c
+      internalID: 517509232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_168
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 619
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe68f01692cf024e9da44004e336b1e
+      internalID: 890168422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_169
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 620
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b2f4620d204341b3d8b1c5fd393c4
+      internalID: 1489247709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_170
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 619
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce5ea67210bee45bd790db723e6c81
+      internalID: 806468413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_171
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 619
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c86376aea2764b80cb1d4b76fe810
+      internalID: -2044294618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_172
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0252627e0d22b4d4a941e3528fa9dc43
+      internalID: 77999322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_173
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 556
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558879b0a342d7b4a8d95ad87b3f5a04
+      internalID: -1020731754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_174
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 558
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b7bb0d62dc6a4c9507fc297e4e1f3
+      internalID: -212759797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_175
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 555
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde16354d37784a49829399c89f28cd7
+      internalID: 1078629212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_176
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 561
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c12204d72cfe7f48937397d54d1d668
+      internalID: -1688268809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_177
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 561
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e119bd3f9edffe943a3c77ed630b347a
+      internalID: 1426828214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_178
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 557
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4515abbbd026840b16bf9859660858
+      internalID: 469355941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_179
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 554
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5595afce6be4439f78ebc254c7760
+      internalID: -705400353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_180
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 555
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b75e369221cd9a4fa821fbf443ec89a
+      internalID: 1331518710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_181
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 555
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae97399c09f2b409aebcbccdad05b6
+      internalID: 172665417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_182
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 551
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552137c30b55d4a45a20824d43722163
+      internalID: 1651217692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_183
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 552
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc2682de705b6c44be043f07153000f
+      internalID: -378575241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_184
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 550
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ae02c0e300b8640a93f38837fee5d1
+      internalID: -1826580712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_185
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 550
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c83d6281205df49a4203142b60166d
+      internalID: -807348574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_186
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 494
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318698f8c0c21d94880777c058d34387
+      internalID: -37862962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_187
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 497
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6026d66f89c77da4a9ef5aa63b1acbfc
+      internalID: -164919097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_188
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 488
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2ae744912821840b9bda124c5c6f88
+      internalID: -2141759890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_189
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 479
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6aae5085d37ef40a19f04fb7e29309
+      internalID: -2004590989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_190
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 486
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0bb27362192564fb135eb809b4261c
+      internalID: -2054641473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_191
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 484
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b473265092ec540924b4e57d065655
+      internalID: -961778198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_192
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 477
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d94c771d5a23de44b4366d1f6ac3fa2
+      internalID: -275613459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_193
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 427
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3be103aecc86b40addb8f213851d86
+      internalID: -706350662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_194
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 426
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fba46a5275c3a14a823a44e28edfcfb
+      internalID: -2028806559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_195
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 429
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b715d59c7848743458dc7ee74f8dbc8b
+      internalID: 2074148045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_196
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 424
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4494f02a31e106e489d9701b97d90d37
+      internalID: 288705854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_197
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 411
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e015de26dcacb24e9d1d36cc044a510
+      internalID: -1025679946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_198
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 411
+        width: 21
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0785fcf2e31f85b4497fc62cc43afcd9
+      internalID: 1681606006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_199
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 412
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b71119ddfd5d74994d91e6260f5cbe
+      internalID: 356328134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_200
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 412
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a398d8b7151654c919374bb2920e6d
+      internalID: 1350313821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_201
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 411
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81d7a4da679d90479dcb161fe814bc7
+      internalID: 1324649937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_202
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 408
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5cd1bd5c77b014f86c4b17775e653f
+      internalID: 602167852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_203
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 403
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd3ea23ab05954ea00ad659e21f9d6
+      internalID: -1410012324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_204
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 402
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea409d2ecad7c43af8bb9ebc446aa6
+      internalID: -1173771166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_205
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 403
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94575e0d39cf31548985571ab00cb075
+      internalID: -2649995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_206
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 402
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84bb06141dd32b4ca6648be07909b8d
+      internalID: 106843883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_207
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 402
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6089396f846da14c882a38dc59f74b2
+      internalID: -1387403988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_208
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 402
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484be20c85778e746bb03ea585ade88b
+      internalID: 1708131226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_209
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 360
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93696b6d37ffd72479268a56fe2dc339
+      internalID: -1328834662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_210
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 360
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40626c428a07b742a10ab3a4f1b0fe1
+      internalID: 801513501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_211
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 358
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61f28ffc601e044b9a6493e189072d4
+      internalID: -324108173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_212
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 352
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c613b184ae19604d8cb7a48edd6751b
+      internalID: -1374866277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_213
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 352
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0653c569143b019419984f399e182eb5
+      internalID: 1036665573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_214
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 358
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb23b5e05d8a99409a5abb013100ba9
+      internalID: 1470944940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_215
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 357
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df8467b5f18ce24fac074bc07d0b5d6
+      internalID: 1669565697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_216
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 353
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00784680725cf6f4faf17f8fc07b25cb
+      internalID: 2126722760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_217
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 351
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0e2ed845f52540bb7b7b131f6a992
+      internalID: 1353697705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_218
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 353
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ccaa6935d452c4195273a69d2e0ad8
+      internalID: 848307720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_219
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 349
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bf6d2c48497ea408ff9e0c17745296
+      internalID: -1345430718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_220
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 351
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee41eb8ca5221349b09715b38e54913
+      internalID: 685182410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_221
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 349
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4f4d1088d05fe4781c7e8599e4e6ea
+      internalID: 334650198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_222
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 347
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e7ad9209c89843baa5e0fa67cb346
+      internalID: -1375991976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_223
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 345
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec30638dd6d7a147812107963f9f8c7
+      internalID: 1911787345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_224
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 310
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a2ca00c0464324283d5e833c400a4d
+      internalID: 1771204780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_225
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 308
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d095657b6c06316439ef13cd6c13d1b3
+      internalID: 156217014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_226
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 305
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580b813d19032b646954257e64dab4d2
+      internalID: 1042222856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_227
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 302
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ecaa9414658ff428fa7c95e8aee311
+      internalID: 1754993037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_228
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 329
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54b0d80424a5354d851104c038db0e8
+      internalID: 1858413438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_229
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 329
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59f1d9c42353a9438aa4cef7d3ecbd8
+      internalID: -1760248264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_230
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 329
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c862a7c34984f4798e9229d6d5d202
+      internalID: -487151526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_231
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 331
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3067c33ece0624ca6ad197ded92861
+      internalID: 1091303389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_232
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dc36c454512284b95485721ce6ccde
+      internalID: -1644387174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_233
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 252
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b353ca30ef455f42aa99daf8207ae10
+      internalID: 1760440509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_234
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 251
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd24cac80e85e743a125f7703da8818
+      internalID: 1118337345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_235
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 246
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48326226726443540968fbbdd301d4b4
+      internalID: -1537656442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_236
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 246
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c854a5ae321f4f861d5ce6565453b
+      internalID: -484420853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_237
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 243
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3042e34dd87d8419444b8872c145c6
+      internalID: 2058841117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_238
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 244
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4be86578fb01c41b3290f50c8c84f0
+      internalID: 1191077182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_239
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 247
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511b90cf5cce8c34da218d8ff0ef8f7a
+      internalID: -1785246630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_240
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 247
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6cb51481c4210478ffa0964c6bbced
+      internalID: -1971522407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_241
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 247
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c21d5a3bac32e4dba9c7d0eba7c252
+      internalID: -418610910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_242
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 245
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59af080b1c039ba4c8e4f97d02dffc87
+      internalID: 1536560460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_243
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 246
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98444f7d88aa5b64cb29b8c717cfe81a
+      internalID: -2065019056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_244
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 242
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f18a4d9cafb53a4d9dd6dd3881786ab
+      internalID: 2000584885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_245
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 184
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d7bf2f4e52b2a49a9425625a26236b
+      internalID: -1481974912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_246
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 178
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35820c86d818d940bbd1808cab4a9ae
+      internalID: 1492276920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_247
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 175
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899ffb6d494a4a419a8297e76383340
+      internalID: 5586096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_248
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 174
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bdd54356f9abd4487c91652471685c
+      internalID: -461355843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_249
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 173
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132fadc4ec5d55c4c9e219e30cceaae7
+      internalID: -685086641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_250
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 170
+        width: 17
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1948ec48f3f44ab94baf8544d7546
+      internalID: -1954046836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_251
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 169
+        width: 20
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e70756907242d41810c470095316e7
+      internalID: -273765310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_252
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 166
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b956b377ccd8024cbfe26555fdb421a
+      internalID: -424634102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_253
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1c59907447ad44c9c7e24d330cf185
+      internalID: -1482430722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_254
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 168
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02abff4aa58b941b3c95f70b25a8a6
+      internalID: -180572917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_255
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 167
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b4ac244b23a44486d48f4d7b99ce5
+      internalID: 801746520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_256
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 169
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0a1f981b0ca6428eedfbcf3f014fb
+      internalID: -773986930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_257
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 171
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e1766077b22ad40bd9751f5af62983
+      internalID: -1194098744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_258
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 169
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24344c926fb7bcb489011be9dcb76486
+      internalID: -1903995879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_259
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 168
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ee83828bb189a4ea55fed5c08607be
+      internalID: 1100064446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_260
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 168
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55575687264a0542b55e06cebad76cd
+      internalID: 923201261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_261
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 167
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212b2a9fc3f25e469b13580e3d98056
+      internalID: 1671412094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_262
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 167
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b488be78b2a1449bed6e533a4f8a4e
+      internalID: -653008932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_263
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 166
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41907c3d250d7146b95b7be163062e3
+      internalID: -1482675839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_264
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 160
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d75689a85fb8b14f8ef26adfe2d38b0
+      internalID: -343394932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_265
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 161
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb86faed19bb3f44923cbe46cd64917
+      internalID: -1603914829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_266
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 115
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5256b12c34f02ae4cb7f75273dfdcf4e
+      internalID: -1114370915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_267
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 113
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64375e529d92e8e4bbdd4e51d55d597a
+      internalID: -1781729203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_268
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 115
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b463a4b934ea4b7448c20b53e3b0f5d0
+      internalID: -990133242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_269
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 113
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76931692f751be441bfc0b3c08e7e904
+      internalID: -248370047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_270
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 116
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7977e9300c1fd654d9101e5df6c9c490
+      internalID: 2050308133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_271
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 115
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79d7d547f8c1d4c9abeba9435c87aa
+      internalID: 1483281475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_272
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 114
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7cf65b2f4dcc842a4a04781572f9ea
+      internalID: -1080605709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_273
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 117
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9663254270572924ebba5601c5ead9bf
+      internalID: -1572579752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_274
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 117
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191a0710851a314685f1e5817760094
+      internalID: 799673794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_275
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 115
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd73b8ca3eb2cf4889bd3de6b6b3cac
+      internalID: 72565703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_276
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 114
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93685cc476e7926488c2428a903e172d
+      internalID: -582341021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_277
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 111
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3df930b189d6f4c921b3477fabed93
+      internalID: -820555217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_278
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 110
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf21396d35a50c4c8b9dfbf9e36ecbf
+      internalID: 2067332024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_279
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 108
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985e0776688272b48aba86577e57135d
+      internalID: 541254420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_280
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 109
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b750dc2a2e414409bf4473f44e0a3c
+      internalID: 1916835174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_281
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 106
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950c78d5eb09e043b600d45e3ba0ff1
+      internalID: 1379402867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_282
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43177583600b5a458cf8afadc79632d
+      internalID: -796518378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_283
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fe15aaa9c316945ade155f8a286214
+      internalID: -827744953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_284
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 63
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679d9deaccae2f4495c7d0a127b959b
+      internalID: 674106744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_285
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 64
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a6e20ec38f49e45ad27b9aa2edd18e
+      internalID: -353570518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_286
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 64
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6829e765c75ede948a69bf2384f8f1e0
+      internalID: -1527359886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_287
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0b418c052cf5348839da6d9d22289e
+      internalID: -973419110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_288
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 65
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea2bcbd7c3c9734692003b004588f93
+      internalID: 1699015564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_289
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e272116e524a714a9b86501dae969ed
+      internalID: -1580794789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_290
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 65
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a13ad67b38807488cf2676cda65cb1
+      internalID: -673629886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_291
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 61
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11cad322e672864fabdd86abf91a59a
+      internalID: -751027266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_292
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 61
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4561827d9096c3f4aa178a52182761d6
+      internalID: -2090789402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_293
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 59
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab18f486f11ef74999e83e74df1ce54
+      internalID: -709238502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_294
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 57
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf45f3780521864882ede3255fb52a9
+      internalID: 1228189826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_295
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 56
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a812a42a960774dae8c84b98a0b0da
+      internalID: 1739260134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_296
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 54
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1a6b7a10c421c4388ba9d8e78eadf2
+      internalID: 60266930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Batman Rise of Sin Tzu - Batman_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 177
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ef53300af74684092fccb56e7c1f10
+      internalID: 2099154150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_0: 1817452596
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_1: -1778775417
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_10: -890933768
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_100: 1303615774
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_101: -1908758724
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_102: -2076397894
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_103: 79961812
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_104: -820885538
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_105: 2042722129
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_106: -1924579547
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_107: 960828725
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_108: -561743405
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_109: 1646320649
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_11: -645794169
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_110: -555234276
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_111: -1607271144
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_112: -1627075032
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_113: -1323422219
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_114: 633255846
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_115: -213571674
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_116: -1237949279
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_117: -1861333473
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_118: 1862163756
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_119: 830060595
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_12: 2112702751
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_120: -295044294
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_121: 577702102
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_122: -70988123
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_123: 126018258
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_124: -383654250
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_125: 1888894289
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_126: 1500535618
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_127: 1116228733
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_128: 1904742677
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_129: 1719179530
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_13: -122253373
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_130: -1398089361
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_131: -75862713
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_132: 539588430
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_133: 565856186
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_134: 1503602281
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_135: 1683724488
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_136: -1608734350
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_137: -1807988454
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_138: -1724469852
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_139: -1052762740
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_14: 507117684
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_140: -581924557
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_141: 285346040
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_142: -465703278
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_143: -1731145151
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_144: -1846388752
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_145: -1779358560
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_146: -815938940
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_147: -2024394685
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_148: -1520786900
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_149: 1542828082
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_15: -282123206
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_150: -1120739197
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_151: -1124236297
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_152: 113534888
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_153: -1794712708
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_154: 790182273
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_155: -1217160703
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_156: -1302864395
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_157: -1311042059
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_158: -1946574363
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_159: -959758252
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_16: -1832814007
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_160: 521765753
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_161: 1892384788
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_162: 2064868903
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_163: 602314942
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_164: 374276001
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_165: -1739268572
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_166: -104663657
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_167: 517509232
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_168: 890168422
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_169: 1489247709
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_17: 1833066360
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_170: 806468413
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_171: -2044294618
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_172: 77999322
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_173: -1020731754
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_174: -212759797
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_175: 1078629212
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_176: -1688268809
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_177: 1426828214
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_178: 469355941
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_179: -705400353
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_18: -2131999268
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_180: 1331518710
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_181: 172665417
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_182: 1651217692
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_183: -378575241
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_184: -1826580712
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_185: -807348574
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_186: -37862962
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_187: -164919097
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_188: -2141759890
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_189: -2004590989
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_19: 1494150897
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_190: -2054641473
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_191: -961778198
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_192: -275613459
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_193: -706350662
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_194: -2028806559
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_195: 2074148045
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_196: 288705854
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_197: -1025679946
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_198: 1681606006
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_199: 356328134
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_2: 498007163
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_20: -739553015
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_200: 1350313821
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_201: 1324649937
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_202: 602167852
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_203: -1410012324
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_204: -1173771166
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_205: -2649995
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_206: 106843883
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_207: -1387403988
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_208: 1708131226
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_209: -1328834662
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_21: 1484828999
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_210: 801513501
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_211: -324108173
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_212: -1374866277
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_213: 1036665573
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_214: 1470944940
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_215: 1669565697
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_216: 2126722760
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_217: 1353697705
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_218: 848307720
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_219: -1345430718
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_22: 180609552
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_220: 685182410
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_221: 334650198
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_222: -1375991976
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_223: 1911787345
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_224: 1771204780
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_225: 156217014
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_226: 1042222856
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_227: 1754993037
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_228: 1858413438
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_229: -1760248264
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_23: -108395422
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_230: -487151526
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_231: 1091303389
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_232: -1644387174
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_233: 1760440509
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_234: 1118337345
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_235: -1537656442
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_236: -484420853
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_237: 2058841117
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_238: 1191077182
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_239: -1785246630
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_24: -1898719356
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_240: -1971522407
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_241: -418610910
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_242: 1536560460
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_243: -2065019056
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_244: 2000584885
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_245: -1481974912
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_246: 1492276920
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_247: 5586096
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_248: -461355843
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_249: -685086641
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_25: -485024558
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_250: -1954046836
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_251: -273765310
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_252: -424634102
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_253: -1482430722
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_254: -180572917
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_255: 801746520
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_256: -773986930
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_257: -1194098744
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_258: -1903995879
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_259: 1100064446
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_26: 1464757682
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_260: 923201261
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_261: 1671412094
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_262: -653008932
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_263: -1482675839
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_264: -343394932
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_265: -1603914829
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_266: -1114370915
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_267: -1781729203
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_268: -990133242
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_269: -248370047
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_27: 873733782
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_270: 2050308133
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_271: 1483281475
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_272: -1080605709
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_273: -1572579752
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_274: 799673794
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_275: 72565703
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_276: -582341021
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_277: -820555217
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_278: 2067332024
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_279: 541254420
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_28: -1553180266
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_280: 1916835174
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_281: 1379402867
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_282: -796518378
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_283: -827744953
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_284: 674106744
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_285: -353570518
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_286: -1527359886
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_287: -973419110
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_288: 1699015564
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_289: -1580794789
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_29: 1715398949
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_290: -673629886
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_291: -751027266
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_292: -2090789402
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_293: -709238502
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_294: 1228189826
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_295: 1739260134
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_296: 60266930
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_297: 2099154150
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_3: -760029286
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_30: -593784385
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_31: 790585928
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_32: -2045568647
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_33: -124358422
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_34: 615702207
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_35: 354270065
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_36: -258737249
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_37: -1688932697
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_38: -1163294461
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_39: 778044050
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_4: -422502805
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_40: 1300725042
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_41: 204277304
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_42: -255039229
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_43: -753628791
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_44: -228616285
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_45: -1882044994
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_46: -436353354
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_47: 271240646
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_48: -1326151071
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_49: -1529848497
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_5: 1181392287
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_50: -1890371517
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_51: -1344344759
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_52: -1170817642
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_53: -433238997
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_54: -307786256
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_55: -297593351
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_56: -1153400734
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_57: -1306861224
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_58: 2096892130
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_59: 424271577
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_6: -142649052
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_60: -667468135
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_61: 921825985
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_62: -1255561189
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_63: -2042700645
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_64: -158888475
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_65: 304268920
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_66: -1880509243
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_67: 832350897
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_68: -1164927006
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_69: -513249260
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_7: -1429736571
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_70: -819821137
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_71: 1140163193
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_72: 1390116156
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_73: -1170073214
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_74: 1009310969
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_75: 498795115
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_76: 544048924
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_77: 835640211
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_78: 1583111453
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_79: 359515764
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_8: 753560873
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_80: 570567259
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_81: 917386551
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_82: 768539892
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_83: -1567272237
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_84: -1864753360
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_85: -2068229240
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_86: -1389011662
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_87: -186849427
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_88: 1654819615
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_89: -1966905167
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_9: -392213956
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_90: 1880411211
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_91: -2002994209
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_92: -1074482580
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_93: -1328373684
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_94: -145504528
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_95: -1255056642
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_96: -1781794462
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_97: 464216172
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_98: 1257383394
+      Game Boy Advance - Batman Rise of Sin Tzu - Batman_99: 1696495717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
