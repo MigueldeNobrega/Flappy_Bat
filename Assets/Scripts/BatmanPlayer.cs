@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BatmanPlayer : MonoBehaviour
 {
-    public float upVel = 300f;
+    [SerializeField] private float upVel = 300f;
     private Rigidbody2D batmanRb;
     private bool isDead;
     private Animator batmanAnimation;
@@ -40,6 +40,7 @@ public class BatmanPlayer : MonoBehaviour
     {
         isDead = true;
         batmanAnimation.SetTrigger("Dead");
+        GameManager.Instance.GameOver();
     }
 
 }

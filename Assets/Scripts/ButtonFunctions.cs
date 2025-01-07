@@ -6,6 +6,6 @@ public class ButtonFunctions : MonoBehaviour
 {
     public void ChangeScene(string sceneName)
     {
-        GameManager.instance.ChangeScene(sceneName);
+        GameManager.Instance.ChangeScene(sceneName);
     }
 }

@@ -5,14 +5,18 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager instance;
+    private static GameManager instance;
+    public bool isGameOver;
+    [SerializeField] private GameObject deadText;
+
+    public static GameManager Instance { get { return instance; } }
     void Awake()
     {
         if (!instance)
         {
            
             instance = this;
-            DontDestroyOnLoad(gameObject);
+           
         }
         else
         {
@@ -23,4 +27,24 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene(sceneName);
     }
+
+    void Update()
+    {
+        if (Input.GetMouseButtonDown(0) && isGameOver)
+        {
+            RestartGame();
+        }
+    }
+    public void GameOver()
+    {
+        isGameOver = true;
+        deadText.SetActive(true);
+    }
+
+    private void RestartGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+
 }
