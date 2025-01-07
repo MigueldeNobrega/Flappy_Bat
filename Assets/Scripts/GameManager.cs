@@ -2,13 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class GameManager : MonoBehaviour
 {
     private static GameManager instance;
     public bool isGameOver;
     [SerializeField] private GameObject deadText;
-
+    [SerializeField] private TMP_Text scoreCount;
+    private int score;
     public static GameManager Instance { get { return instance; } }
     void Awake()
     {
@@ -46,5 +48,10 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
+    public void CountScore()
+    {
+        score++;
+        scoreCount.text = score.ToString();
 
+    }
 }
