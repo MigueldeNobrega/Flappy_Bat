@@ -290,6 +290,7 @@ MonoBehaviour:
   isGameOver: 0
   deadText: {fileID: 83028491}
   scoreCount: {fileID: 930411642}
+  scoreAudioClip: {fileID: 8300000, guid: 0af59339ede0c48458db417acd00ed28, type: 3}
 --- !u!4 &182500410
 Transform:
   m_ObjectHideFlags: 0

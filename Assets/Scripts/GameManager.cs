@@ -10,7 +10,9 @@ public class GameManager : MonoBehaviour
     public bool isGameOver;
     [SerializeField] private GameObject deadText;
     [SerializeField] private TMP_Text scoreCount;
-    
+    public AudioClip scoreAudioClip;
+
+
     private int score;
     public static GameManager Instance { get { return instance; } }
     void Awake()
@@ -54,6 +56,7 @@ public class GameManager : MonoBehaviour
     {
         score++;
         scoreCount.text = score.ToString();
+        AudioManager.instance.PlayAudio(scoreAudioClip, "ScoreSound");
 
     }
 }
