@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     public bool isGameOver;
     [SerializeField] private GameObject deadText;
     [SerializeField] private TMP_Text scoreCount;
+    
     private int score;
     public static GameManager Instance { get { return instance; } }
     void Awake()
@@ -36,6 +37,7 @@ public class GameManager : MonoBehaviour
         {
             RestartGame();
         }
+
     }
     public void GameOver()
     {

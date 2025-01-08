@@ -8,12 +8,16 @@ public class BatmanPlayer : MonoBehaviour
     private Rigidbody2D batmanRb;
     private bool isDead;
     private Animator batmanAnimation;
+    public AudioClip bounceAudioClip;
+    public AudioClip flapAudioClip;
+
 
     // Start is called before the first frame update
     void Start()
     {
         batmanRb = GetComponent<Rigidbody2D>();
         batmanAnimation = GetComponent<Animator>();
+        
     }
 
     // Update is called once per frame
@@ -23,6 +27,8 @@ public class BatmanPlayer : MonoBehaviour
         {
             Flap(); 
         }
+
+       
     }
 
     private void Flap()
@@ -30,6 +36,7 @@ public class BatmanPlayer : MonoBehaviour
         batmanRb.velocity = Vector2.zero;
         batmanRb.AddForce(Vector2.up * upVel);
         batmanAnimation.SetTrigger("Flap");
+        AudioManager.instance.PlayAudio(flapAudioClip, "FlapSound");
     }
 
 
@@ -38,9 +45,12 @@ public class BatmanPlayer : MonoBehaviour
 
     private void OnCollisionEnter2D()
     {
+
+        AudioManager.instance.PlayAudio(bounceAudioClip, "DeadSound");
         isDead = true;
         batmanAnimation.SetTrigger("Dead");
         GameManager.Instance.GameOver();
+        
     }
 
 }
