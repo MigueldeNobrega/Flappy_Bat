@@ -12,7 +12,7 @@ public class AdManager : MonoBehaviour, IUnityAdsInitializationListener,IUnityAd
 
     public void OnInitializationComplete()
     {
-        throw new System.NotImplementedException();
+        Debug.Log("Unity Ads initialization completed successfully.");
     }
 
     public void OnInitializationFailed(UnityAdsInitializationError error, string message)
@@ -37,7 +37,7 @@ public class AdManager : MonoBehaviour, IUnityAdsInitializationListener,IUnityAd
 
     public void OnUnityAdsShowComplete(string placementId, UnityAdsShowCompletionState showCompletionState)
     {
-        throw new System.NotImplementedException();
+        Debug.Log($"Ad {placementId} finished showing with state: {showCompletionState.ToString()}");
     }
 
     public void OnUnityAdsShowFailure(string placementId, UnityAdsShowError error, string message)
@@ -47,7 +47,7 @@ public class AdManager : MonoBehaviour, IUnityAdsInitializationListener,IUnityAd
 
     public void OnUnityAdsShowStart(string placementId)
     {
-        throw new System.NotImplementedException();
+        Debug.Log($"Ad {placementId} started showing.");
     }
 
 
