@@ -45,13 +45,22 @@ public class AudioManager : MonoBehaviour
 
     IEnumerator CheckAudio(AudioSource audioSource)
     {
-        while (audioSource.isPlaying)
+        while (audioSource != null && audioSource.isPlaying)
         {
             yield return new WaitForSeconds(.2f);
         }
 
-        activeAudios.Remove(audioSource.gameObject);
-        Destroy(audioSource.gameObject);
+        // Comprobar si el gameObject todavía existe antes de intentar destruirlo
+        if (audioSource != null && !audioSource.isPlaying)
+        {
+            activeAudios.Remove(audioSource.gameObject);
+            Destroy(audioSource.gameObject);
+        }
+        else if (audioSource == null)
+        {
+            // Si el audioSource ha sido destruido antes de completar la Coroutine
+            Debug.LogWarning("El AudioSource fue destruido antes de completar la Coroutine.");
+        }
     }
 
 }
