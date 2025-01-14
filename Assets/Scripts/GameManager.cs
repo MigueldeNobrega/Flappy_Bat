@@ -35,7 +35,7 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0) && isGameOver)
+        if (Input.GetMouseButtonDown(1) && isGameOver)
         {
             RestartGame();
         }

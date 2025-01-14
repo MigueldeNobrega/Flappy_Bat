@@ -28,9 +28,23 @@ public class BatmanPlayer : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0) && !isDead)
+        // Solo ejecutar si no estás muerto
+        if (!isDead)
+        {
+            // Para plataformas de escritorio (PC, Mac, Linux)
+#if UNITY_STANDALONE || UNITY_EDITOR
+            if (Input.GetKeyDown(KeyCode.Space))  // Si presionas la barra espaciadora
+            {
+                Flap();
+            }
+
+            // Para plataformas móviles (Android, iOS)
+#elif UNITY_ANDROID || UNITY_IOS
+        if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)  // Si tocas la pantalla
         {
             Flap();
+        }
+#endif
         }
     }
 
