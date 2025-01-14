@@ -398,7 +398,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &245740292
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -479,7 +479,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   upVel: 300
-  bounceAudioClip: {fileID: 8300000, guid: 980288f5650cea6478feb602b06e070d, type: 3}
+  deadAudioClip: {fileID: 8300000, guid: 980288f5650cea6478feb602b06e070d, type: 3}
   flapAudioClip: {fileID: 8300000, guid: 50633dcee3e115e4185ee5354693fd5a, type: 3}
 --- !u!95 &245740295
 Animator:
@@ -932,7 +932,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -1.2231176}
+  m_Offset: {x: 0, y: -1.2298212}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -943,7 +943,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4.31, y: 0.19376457}
+  m_Size: {x: 4.31, y: 0.18035758}
   m_EdgeRadius: 0
 --- !u!50 &689825519
 Rigidbody2D:
@@ -1031,11 +1031,11 @@ RectTransform:
   - {fileID: 1075348666}
   m_Father: {fileID: 527671900}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -768, y: 480.1635}
-  m_SizeDelta: {x: 347.9423, y: 78.7257}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 347.94226, y: 78.72571}
+  m_Pivot: {x: 0, y: 1}
 --- !u!114 &717968141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1164,7 +1164,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -20.474}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 300, y: 120}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &930411642
@@ -1214,8 +1214,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 60
-  m_fontSizeBase: 60
+  m_fontSize: 100
+  m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1345,7 +1345,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000015258789, y: 0.000022888184}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0.000091553, y: -0.000053406}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1075348667
@@ -1586,7 +1586,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -1.2231176}
+  m_Offset: {x: 0, y: -1.231497}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1597,7 +1597,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4.31, y: 0.19376457}
+  m_Size: {x: 4.31, y: 0.17700589}
   m_EdgeRadius: 0
 --- !u!212 &1832265841
 SpriteRenderer:
