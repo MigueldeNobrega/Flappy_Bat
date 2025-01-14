@@ -50,6 +50,7 @@ public class BatmanPlayer : MonoBehaviour
         isDead = true;
         batmanAnimation.SetTrigger("Dead");
         GameManager.Instance.GameOver();
+        AdManager.instance.ShowAd();
         
     }
 
