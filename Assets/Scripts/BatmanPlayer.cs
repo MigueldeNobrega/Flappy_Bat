@@ -11,7 +11,7 @@ public class BatmanPlayer : MonoBehaviour
     private bool isDead;
     private int deadCount;
     private Animator batmanAnimation;
-    public AudioClip bounceAudioClip;
+    public AudioClip deadAudioClip;
     public AudioClip flapAudioClip;
     private int deadNumber;
 
@@ -60,7 +60,7 @@ public class BatmanPlayer : MonoBehaviour
     {
         if (!isDead)
         {
-            AudioManager.instance.PlayAudio(bounceAudioClip, "DeadSound");
+            AudioManager.instance.PlayAudio(deadAudioClip, "DeadSound");
             isDead = true;
             batmanAnimation.SetTrigger("Dead");
             GameManager.Instance.GameOver();
