@@ -12,8 +12,8 @@ public class ObstaclesPool : MonoBehaviour
     private int obstacleCount;
     private float timeLapse;
     [SerializeField] private float xSpawnPosition=-1f;
-    [SerializeField] private float maxYPosition=1.8f;
-    [SerializeField] private float minYPosition=-1f;
+    [SerializeField] private float maxYPosition=1.85f;
+    [SerializeField] private float minYPosition=-1.6f;
     // Start is called before the first frame update
     void Start()
     {
