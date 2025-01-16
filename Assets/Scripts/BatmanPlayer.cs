@@ -79,7 +79,7 @@ public class BatmanPlayer : MonoBehaviour
 
     private void AdShowDead()
     {
-        AdManager.instance.ShowAd();
+       // AdManager.instance.ShowAd();
         deadCount = 0;
         GenerateRandomDeathNumber();
         SaveGameData(); // Guarda los datos después de reiniciar el contador
