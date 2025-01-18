@@ -35,9 +35,20 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(1) && isGameOver)
+        if (isGameOver)
         {
-            RestartGame();
+#if UNITY_STANDALONE || UNITY_EDITOR  // Para PC o en el editor de Unity
+            if (Input.GetMouseButtonDown(0))  // Clic izquierdo
+            {
+                RestartGame();
+            }
+
+#elif UNITY_ANDROID || UNITY_IOS  // Para dispositivos móviles
+            if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)  // Toque en la pantalla
+            {
+                RestartGame();
+            }
+#endif
         }
 
     }
