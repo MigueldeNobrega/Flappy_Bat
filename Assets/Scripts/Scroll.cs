@@ -11,7 +11,7 @@ public class Scroll : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb.velocity = new Vector2(-speed, 0f); 
+        rb.velocity = Vector2.left*speed;
     }
 
     // Update is called once per frame

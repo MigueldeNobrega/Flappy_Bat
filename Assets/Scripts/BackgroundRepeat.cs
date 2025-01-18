@@ -27,6 +27,7 @@ public class Back : MonoBehaviour
     private void ResetPosition()
     {
         transform.Translate(new Vector3(2 * spriteWidth, 0f, 0f));
+        Debug.Log("TAMAÑO:" + spriteWidth);   
     }
 
 
