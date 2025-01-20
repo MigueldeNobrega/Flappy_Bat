@@ -674,8 +674,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb85d71302c526e4eb5419d8b913c4f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 7037a0032e05daf40807ddfe941e85ca, type: 3}
-  volume: 0.1
+  clip: {fileID: 8300000, guid: 80265934d9d094b4cafab20fc87b82a9, type: 3}
+  volume: 1
 --- !u!4 &427039466
 Transform:
   m_ObjectHideFlags: 0
