@@ -8,10 +8,10 @@ public class ObstaclesPool : MonoBehaviour
     [SerializeField] private GameObject obstaclePrefab;
     private int poolSize = 5;
     private GameObject[] obstacles;
-    private float spawnTime = 2.5f;
+    private float spawnTime = 2f;
     private int obstacleCount;
     private float timeLapse;
-    [SerializeField] private float xSpawnPosition=-1f;
+    [SerializeField] private float xSpawnPosition=5f;
     [SerializeField] private float maxYPosition=1.82f;
     [SerializeField] private float minYPosition=-2f;
     // Start is called before the first frame update
