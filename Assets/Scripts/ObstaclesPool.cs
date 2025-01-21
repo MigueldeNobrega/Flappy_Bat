@@ -6,7 +6,7 @@ public class ObstaclesPool : MonoBehaviour
 {
 
     [SerializeField] private GameObject obstaclePrefab;
-    private int poolSize = 5;
+    private int poolSize = 6;
     private GameObject[] obstacles;
     private float spawnTime = 2f;
     private int obstacleCount;
