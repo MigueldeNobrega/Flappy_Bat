@@ -28,17 +28,17 @@ public class BatmanPlayer : MonoBehaviour
 
     void Update()
     {
-        // Solo ejecutar si no estás muerto
+        // Solo se ejecuta si no estás muerto
         if (!isDead)
         {
-            // Para plataformas de escritorio (PC, Mac, Linux)
+            // Para escritorio 
 #if UNITY_STANDALONE || UNITY_EDITOR
-            if (Input.GetKeyDown(KeyCode.Space))  // Si presionas la barra espaciadora
+            if (Input.GetKeyDown(KeyCode.Space))  // barra espaciadora
             {
                 Flap();
             }
 
-            // Para plataformas móviles (Android, iOS)
+            // Para móviles 
 #elif UNITY_ANDROID || UNITY_IOS
         if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)  // Si tocas la pantalla
         {
@@ -48,11 +48,13 @@ public class BatmanPlayer : MonoBehaviour
         }
     }
 
+    //Función para volar
     private void Flap()
     {
         batmanRb.velocity = Vector2.zero;
         batmanRb.AddForce(Vector2.up * upVel);
-        batmanAnimation.SetTrigger("Flap");
+        //Activar la animacion y el sonido
+        batmanAnimation.SetTrigger("Flap"); 
         AudioManager.instance.PlayAudio(flapAudioClip, "FlapSound");
     }
 
@@ -60,6 +62,7 @@ public class BatmanPlayer : MonoBehaviour
     {
         if (!isDead)
         {
+            //Activar la animacion y el sonido
             AudioManager.instance.PlayAudio(deadAudioClip, "DeadSound");
             isDead = true;
             batmanAnimation.SetTrigger("Dead");
@@ -77,20 +80,22 @@ public class BatmanPlayer : MonoBehaviour
         }
     }
 
+    //Funcion para controlar cuando mostrar el anuncio
     private void AdShowDead()
     {
-       // AdManager.instance.ShowAd();
+        // AdManager.instance.ShowAd();
         deadCount = 0;
         GenerateRandomDeathNumber();
         SaveGameData(); // Guarda los datos después de reiniciar el contador
         Debug.Log("Nuevo número de muertes necesarias para mostrar anuncio: " + deadNumber);
     }
 
+    //Funcion para generar el numero random entre 3 y 5 para mostrar el anuncio tras ese numero de muertes
     private void GenerateRandomDeathNumber()
     {
         deadNumber = UnityEngine.Random.Range(3, 6);
     }
-
+    //Funcion para guardar la informacion del juego y controlar el contador de muerte para los anuncios
     private void SaveGameData()
     {
         PlayerPrefs.SetInt("DeadCount", deadCount);
@@ -98,6 +103,7 @@ public class BatmanPlayer : MonoBehaviour
         PlayerPrefs.Save();
     }
 
+    //Funcion para llevar los contadores de las muertes aunque se salga del juego
     private void LoadGameData()
     {
         deadCount = PlayerPrefs.GetInt("DeadCount", 0);

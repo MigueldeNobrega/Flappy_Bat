@@ -8,12 +8,17 @@ public class GameManager : MonoBehaviour
 {
     private static GameManager instance;
     public bool isGameOver;
+
+    //Para controlar el texto de muerte y el contador de puntos
     [SerializeField] private GameObject deadText;
     [SerializeField] private TMP_Text scoreCount;
+
+
     public AudioClip scoreAudioClip;
 
-
     private int score;
+
+    // Propiedad para acceder a la instancia única del GameManager (Singleton)
     public static GameManager Instance { get { return instance; } }
     void Awake()
     {
@@ -28,11 +33,15 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    
     public void ChangeScene(string sceneName)
     {
         SceneManager.LoadScene(sceneName);
     }
 
+
+    //Al morir, pulsar para reiniciar
     void Update()
     {
         if (isGameOver)
@@ -52,17 +61,21 @@ public class GameManager : MonoBehaviour
         }
 
     }
+
+    //Activa el texto de muerte 
     public void GameOver()
     {
         isGameOver = true;
         deadText.SetActive(true);
     }
 
+    //Para reiniciar la escena de la partida
     private void RestartGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
+    //Para controlar el aumento y el sonido de la puntuacion
     public void CountScore()
     {
         score++;

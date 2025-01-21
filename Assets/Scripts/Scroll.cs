@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Scroll : MonoBehaviour
 {
+    //Script para mover el background y las tuberias continuamente
+
     private Rigidbody2D rb;
     [SerializeField] private float speed = 2.5f;
 

@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class ButtonFunctions : MonoBehaviour
 {
+
+    //Función para cambiar de escena dentro del juego
     public void ChangeScene(string sceneName)
     {
         GameManager.Instance.ChangeScene(sceneName);
     }
 
+    //Función para salir del juego
     public void ExitApplication()
     {
         // Salir de la aplicación

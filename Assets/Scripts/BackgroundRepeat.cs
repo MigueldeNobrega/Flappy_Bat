@@ -9,7 +9,7 @@ public class Back : MonoBehaviour
 
     void Start()
     {
-        // Obtener el tamaño del sprite (usa el SpriteRenderer en lugar del Collider)
+        // Obtener el tamaño del sprite del background
         spriteWidth = GetComponent<SpriteRenderer>().bounds.size.x;
     }
 
@@ -21,33 +21,33 @@ public class Back : MonoBehaviour
         // Si la imagen ha salido completamente de la pantalla, la reposicionamos justo detrás de la otra
         if (transform.position.x <= -spriteWidth)
         {
-            ReposicionarFondo();
+            RepositionBackground();
         }
     }
 
-    void ReposicionarFondo()
+    void RepositionBackground()
     {
-        // Encuentra la imagen más adelantada (la que aún no ha salido de la pantalla)
-        GameObject fondoMasAdelantado = EncontrarFondoMasAdelantado();
+        // Encuentra la imagen más adelantada 
+        GameObject backFirst = FindBackFirst();
 
         // Reposicionar este fondo exactamente detrás del otro
-        transform.position = new Vector3(fondoMasAdelantado.transform.position.x + spriteWidth, transform.position.y, transform.position.z);
+        transform.position = new Vector3(backFirst.transform.position.x + spriteWidth, transform.position.y, transform.position.z);
     }
 
-    GameObject EncontrarFondoMasAdelantado()
+    GameObject FindBackFirst()
     {
-        // Encuentra todas las imágenes con este script
-        Back[] fondos = FindObjectsOfType<Back>();
+        // Encuentra todas las imágenes 
+        Back[] backgrounds = FindObjectsOfType<Back>();
 
         // Buscar la imagen que está más a la derecha
-        GameObject fondoMasAdelantado = this.gameObject;
-        foreach (Back fondo in fondos)
+        GameObject backFirst = this.gameObject;
+        foreach (Back fondo in backgrounds)
         {
-            if (fondo.transform.position.x > fondoMasAdelantado.transform.position.x)
+            if (fondo.transform.position.x > backFirst.transform.position.x)
             {
-                fondoMasAdelantado = fondo.gameObject;
+                backFirst = fondo.gameObject;
             }
         }
-        return fondoMasAdelantado;
+        return backFirst;
     }
 }

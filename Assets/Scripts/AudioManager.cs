@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class AudioManager : MonoBehaviour
 {
-    
+    // Instancia única del AudioManager para usar Singleton
     public static AudioManager instance;
-
+    // Lista para almacenar los GameObjects de audios activos
     private List<GameObject> activeAudios;
 
     private void Awake()
@@ -15,19 +15,20 @@ public class AudioManager : MonoBehaviour
         {
             instance = this;
             DontDestroyOnLoad(gameObject);
-            activeAudios = new List<GameObject>();  
+            activeAudios = new List<GameObject>();  // Inicializa la lista de audios activos
         }
         else
         {
-            Destroy(gameObject);
+            Destroy(gameObject);  // Si ya hay una instancia, destruye este objeto duplicado
         }
     }
 
 
     public AudioSource PlayAudio(AudioClip clip, string objectName, float volume = 1, bool isLoop = false)
     {
+        // Crea un nuevo GameObject para el audio
         GameObject audioObject = new GameObject(objectName);
-        AudioSource audioSourceComponent = audioObject.AddComponent<AudioSource>();
+        AudioSource audioSourceComponent = audioObject.AddComponent<AudioSource>(); // Agrega un componente AudioSource al GameObject
         audioSourceComponent.clip = clip;
         audioSourceComponent.volume = volume;
         audioSourceComponent.loop = isLoop;
@@ -36,7 +37,7 @@ public class AudioManager : MonoBehaviour
         if (!isLoop)
         {
             activeAudios.Add(audioObject);
-            StartCoroutine(CheckAudio(audioSourceComponent));
+            StartCoroutine(CheckAudio(audioSourceComponent)); // Inicia la corrutina para verificar si el audio ha terminado
         }
 
 
@@ -45,6 +46,7 @@ public class AudioManager : MonoBehaviour
 
     IEnumerator CheckAudio(AudioSource audioSource)
     {
+        // Mientras el audioSource exista y esté reproduciéndose
         while (audioSource != null && audioSource.isPlaying)
         {
             yield return new WaitForSeconds(.2f);
@@ -53,8 +55,8 @@ public class AudioManager : MonoBehaviour
         // Comprobar si el gameObject todavía existe antes de intentar destruirlo
         if (audioSource != null && !audioSource.isPlaying)
         {
-            activeAudios.Remove(audioSource.gameObject);
-            Destroy(audioSource.gameObject);
+            activeAudios.Remove(audioSource.gameObject); // Elimina el objeto de la lista
+            Destroy(audioSource.gameObject); // Destruye el GameObject
         }
         else if (audioSource == null)
         {
